@@ -24,7 +24,7 @@ cd ~/lazyconfig && ./install.sh
 ### Linux
 
 ```sh
-git clone https://github.com/dinith-heshan/lazyconfig.git ~/lazyconfig
+git clone https://github.com/hashan-lahiru/lazyconfig.git ~/lazyconfig
 cd ~/lazyconfig && ./install.sh
 ```
 
